@@ -1,2 +1,2 @@
 # non-web-spring
-Spring without web
+spring without web application
